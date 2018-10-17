@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_usdo2_isnex_task" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>c848459cdb192300ae1b309f7c9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>c448459cdb192300ae1b309f7c9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sm_part_requirement.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>8848459cdb192300ae1b309f7c9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>alm_transfer_order.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>0848459cdb192300ae1b309f7c9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sm_asset_usage.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>4048459cdb192300ae1b309f7c9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sm_m2m_task_dependency.downstream_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>4c48459cdb192300ae1b309f7c9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>sm_m2m_task_dependency.upstream_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>8448459cdb192300ae1b309f7c9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>sm_incidentals.parent_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>8048459cdb192300ae1b309f7c9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>sm_m2m_task_contract.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>0048459cdb192300ae1b309f7c9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>9</position>
+            <related_list>REL:e8675c6947232100158b949b6c9a71db</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>0c48459cdb192300ae1b309f7c9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Isnex Task - Default view" name="x_usdo2_isnex_task" related_list="NULL" sys_domain="global" view="Default view">4048459cdb192300ae1b309f7c9619e1</list_id>
+            <order_by/>
+            <position>10</position>
+            <related_list>task_activity.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_id>4448459cdb192300ae1b309f7c9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Isnex Task - Default view</calculated_name>
+            <filter/>
+            <name>x_usdo2_isnex_task</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+            <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>4048459cdb192300ae1b309f7c9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Isnex Task - Default view</sys_name>
+            <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+            <sys_update_name>sys_ui_related_x_usdo2_isnex_task_null</sys_update_name>
+            <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+            <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Isnex Request" max_length="40" name="x_usdo2_isnex_request" type="collection"/>
+</database>

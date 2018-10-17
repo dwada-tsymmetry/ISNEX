@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sf_sm_flow" label="ISNEX Task Flow" max_length="40" name="x_usdo2_isnex_sf_task" type="collection"/>
+</database>

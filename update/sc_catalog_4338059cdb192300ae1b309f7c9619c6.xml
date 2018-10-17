@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description>A description for ISNEX Catalog</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+        <sys_created_on>2018-10-17 21:48:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4338059cdb192300ae1b309f7c9619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ISNEX Catalog</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sc_catalog_4338059cdb192300ae1b309f7c9619c6</sys_update_name>
+        <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+        <sys_updated_on>2018-10-17 21:48:43</sys_updated_on>
+        <title>ISNEX Catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=4338059cdb192300ae1b309f7c9619c6"/>
+</record_update>

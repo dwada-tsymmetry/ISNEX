@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5928cd5cdb192300ae1b309f7c96196d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group_type">
+    <sys_user_group_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>isnex</name>
+        <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+        <sys_created_on>2018-10-17 21:48:20</sys_created_on>
+        <sys_id>5928cd5cdb192300ae1b309f7c96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+        <sys_updated_on>2018-10-17 21:48:20</sys_updated_on>
+    </sys_user_group_type>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+        <sys_created_on>2018-10-17 21:48:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8d48c59cdb192300ae1b309f7c961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>isnex</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sys_metadata_link_8d48c59cdb192300ae1b309f7c961912</sys_update_name>
+        <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+        <sys_updated_on>2018-10-17 21:48:51</sys_updated_on>
+        <tablename>sys_user_group_type</tablename>
+    </sys_metadata_link>
+</record_update>

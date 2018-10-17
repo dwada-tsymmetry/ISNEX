@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f048859cdb192300ae1b309f7c9619b5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_m2m_group_dependency">
+    <sm_m2m_group_dependency action="INSERT_OR_UPDATE">
+        <assignment_group display_value="ISNEX Assignment" name="ISNEX Assignment">d528cd5cdb192300ae1b309f7c96196e</assignment_group>
+        <dispatch_group display_value="ISNEX Dispatchers" name="ISNEX Dispatchers">9d28cd5cdb192300ae1b309f7c96197f</dispatch_group>
+        <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+        <sys_created_on>2018-10-17 21:48:50</sys_created_on>
+        <sys_id>f048859cdb192300ae1b309f7c9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+        <sys_updated_on>2018-10-17 21:48:50</sys_updated_on>
+    </sm_m2m_group_dependency>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+        <sys_created_on>2018-10-17 21:48:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9d48c59cdb192300ae1b309f7c961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 10-17-2018 17:48</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sys_metadata_link_9d48c59cdb192300ae1b309f7c961960</sys_update_name>
+        <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+        <sys_updated_on>2018-10-17 21:48:52</sys_updated_on>
+        <tablename>sm_m2m_group_dependency</tablename>
+    </sys_metadata_link>
+</record_update>

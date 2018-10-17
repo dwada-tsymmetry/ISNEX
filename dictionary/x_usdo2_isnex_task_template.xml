@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_servicetask_product_model" label="ISNEX Task Template" max_length="40" name="x_usdo2_isnex_task_template" type="collection"/>
+</database>

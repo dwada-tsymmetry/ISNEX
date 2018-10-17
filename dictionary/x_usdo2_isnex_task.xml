@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_task" label="Isnex Task" max_length="40" name="x_usdo2_isnex_task" type="collection"/>
+</database>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_gauge">
+    <sys_gauge action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate>COUNT</aggregate>
+        <attributes/>
+        <fieldname/>
+        <group_field/>
+        <lower_limit/>
+        <name>ISNEX Catalog Usage</name>
+        <order/>
+        <other_threshold>-2</other_threshold>
+        <parent/>
+        <query/>
+        <report display_value="ISNEX Catalog Usage">0848459cdb192300ae1b309f7c9619fb</report>
+        <roles/>
+        <stack_field/>
+        <sys_class_name>sys_gauge</sys_class_name>
+        <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
+        <sys_created_on>2018-10-17 21:48:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4048459cdb192300ae1b309f7c9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ISNEX Catalog Usage</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sys_gauge_4048459cdb192300ae1b309f7c9619fd</sys_update_name>
+        <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
+        <sys_updated_on>2018-10-17 21:48:47</sys_updated_on>
+        <tablename>x_usdo2_isnex_request</tablename>
+        <title>ISNEX Catalog Usage</title>
+        <type>report</type>
+        <upper_limit/>
+        <url/>
+        <view/>
+    </sys_gauge>
+</record_update>
