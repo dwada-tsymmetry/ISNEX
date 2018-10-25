@@ -13,13 +13,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
         <sys_created_on>2018-10-17 21:48:11</sys_created_on>
-        <sys_id>acf80a2adb15230029c66a4948961934</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>54079d7adbdd6700ae1b309f7c9619e4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_usdo2_isnex_request_template</sys_name>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
-        <sys_update_name>ua_table_licensing_config_acf80a2adb15230029c66a4948961934</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_54079d7adbdd6700ae1b309f7c9619e4</sys_update_name>
         <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
         <sys_updated_on>2018-10-17 21:48:11</sys_updated_on>
     </ua_table_licensing_config>

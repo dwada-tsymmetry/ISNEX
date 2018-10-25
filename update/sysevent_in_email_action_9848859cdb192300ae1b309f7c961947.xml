@@ -63,14 +63,15 @@ gs.eventQueue('ir.request.email.creation', current, newId, email.from);]]></scri
         <sys_class_name>sysevent_in_email_action</sys_class_name>
         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
         <sys_created_on>2018-10-17 21:48:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>9848859cdb192300ae1b309f7c961947</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Create ISNEX Request (Forwarded)</sys_name>
         <sys_overrides/>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
         <sys_update_name>sysevent_in_email_action_9848859cdb192300ae1b309f7c961947</sys_update_name>
         <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>

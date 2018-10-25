@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Isnex Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Isnex Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">3ff510420f22020006b09259a1050e8b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-10-25 17:18:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d0079d7adbdd6700ae1b309f7c9619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Isnex Task</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sys_wizard_answer_d0079d7adbdd6700ae1b309f7c9619b3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-25 17:18:03</sys_updated_on>
+        <table/>
+        <target_url>x_usdo2_isnex_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
