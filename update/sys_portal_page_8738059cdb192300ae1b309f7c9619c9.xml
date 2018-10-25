@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_portal_page" unload_date="2018-10-25 02:48:36">
+<record_update node_type="sys_portal_page" unload_date="2018-10-25 18:03:17">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
         <order/>
@@ -9,14 +9,15 @@
         <sys_class_name>sys_portal_page</sys_class_name>
         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
         <sys_created_on>2018-10-17 21:48:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>8738059cdb192300ae1b309f7c9619c9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>catalog_isnex_catalog</sys_name>
         <sys_overrides/>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
         <sys_update_name>sys_portal_page_8738059cdb192300ae1b309f7c9619c9</sys_update_name>
         <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
@@ -39,7 +40,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>catalog</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>0f38059cdb192300ae1b309f7c9619cf</sys_id>
@@ -50,7 +51,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>1738059cdb192300ae1b309f7c9619d1</sys_id>
@@ -61,7 +62,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>1b38059cdb192300ae1b309f7c9619d0</sys_id>
@@ -72,7 +73,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>render_title</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>5338059cdb192300ae1b309f7c9619d1</sys_id>
@@ -83,7 +84,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>catalog_view</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>5738059cdb192300ae1b309f7c9619d0</sys_id>
@@ -94,7 +95,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>5f38059cdb192300ae1b309f7c9619d2</sys_id>
@@ -105,7 +106,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>9b38059cdb192300ae1b309f7c9619d1</sys_id>
@@ -116,7 +117,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_link_class</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>9b38059cdb192300ae1b309f7c9619d2</sys_id>
@@ -127,7 +128,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>9f38059cdb192300ae1b309f7c9619d0</sys_id>
@@ -138,7 +139,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_link</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>d738059cdb192300ae1b309f7c9619d2</sys_id>
@@ -149,7 +150,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>macro</name>
-                        <portal_section display_value="Created 2018-10-17 14:48:44">4338059cdb192300ae1b309f7c9619cf</portal_section>
+                        <portal_section display_value="Created 10-17-2018 17:48">4338059cdb192300ae1b309f7c9619cf</portal_section>
                         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
                         <sys_created_on>2018-10-17 21:48:44</sys_created_on>
                         <sys_id>db38059cdb192300ae1b309f7c9619d0</sys_id>

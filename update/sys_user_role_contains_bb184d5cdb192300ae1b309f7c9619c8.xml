@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
-        <contains display_value="catalog_admin" name="catalog_admin">e09d16f2c0a8016501281264b989e1db</contains>
+        <contains display_value="catalog_admin" name="catalog_admin">3dd65c820f22020006b09259a1050e7f</contains>
         <role display_value="x_usdo2_isnex_admin" name="x_usdo2_isnex_admin">6b184d5cdb192300ae1b309f7c961965</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
         <sys_created_on>2018-10-17 21:48:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bb184d5cdb192300ae1b309f7c9619c8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>catalog_admin.x_usdo2_isnex_admin</sys_name>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
         <sys_update_name>sys_user_role_contains_bb184d5cdb192300ae1b309f7c9619c8</sys_update_name>
         <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
