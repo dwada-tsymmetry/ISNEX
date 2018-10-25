@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$grid-gutter-width: 15px !default;</css_variables>
+        <default>false</default>
+        <homepage display_value="isn_ex_index">60fc8e50db15230029c66a49489619fb</homepage>
+        <icon/>
+        <kb_knowledge_base display_value="ISNEX Knowledge">5b38059cdb192300ae1b309f7c9619e3</kb_knowledge_base>
+        <kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page>
+        <login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config><![CDATA[[{
+	"tagline": {
+		"table" : "sp_instance",
+		"sys_id" : "34fe3d96cb20020000f8d856634c9cf4",
+		"field" : "title"
+	},
+	"hero_background": {
+		"table" : "sp_container",
+		"sys_id" : "be98a8d2cb20020000f8d856634c9c63",
+		"field" : "background_image"
+	}
+}]]]></quick_start_config>
+        <sc_catalog display_value="ISNEX Catalog">4338059cdb192300ae1b309f7c9619c6</sc_catalog>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="ISN/EX Header Menu">eb7b7746db91230029c66a4948961966</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-18 00:40:02</sys_created_on>
+        <sys_id>7c496ddcdb91230029c66a4948961943</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ISN/EX Service Portal</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sp_portal_7c496ddcdb91230029c66a4948961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-23 21:28:33</sys_updated_on>
+        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <title>ISN/EX Service Portal</title>
+        <url_suffix>isn_ex</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=7c496ddcdb91230029c66a4948961943"/>
+</record_update>

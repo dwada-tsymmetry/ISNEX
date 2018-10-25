@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">2ba7fb82db91230029c66a49489619f9</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-23 21:04:41</sys_created_on>
+        <sys_id>a4b77382db91230029c66a49489619bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sp_instance_a4b77382db91230029c66a49489619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-23 21:05:01</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h1 class=\"text-center\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"5264627cdb70a300ede078f08c961955.iix\" />&nbsp; &nbsp;&nbsp;<span class=\"text-center text-2x m-b-lg sp-tagline-color ng-binding\">How can we help?</span>&nbsp;&nbsp;&nbsp;&nbsp;<img style=\"max-width: 100%; max-height: 480px;\" src=\"62242e3cdb70a300ede078f08c96191d.iix\" /></h1>",
+		"displayValue": "<h1 class=\"text-center\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"5264627cdb70a300ede078f08c961955.iix\" />&nbsp; &nbsp;&nbsp;<span class=\"text-center text-2x m-b-lg sp-tagline-color ng-binding\">How can we help?</span>&nbsp;&nbsp;&nbsp;&nbsp;<img style=\"max-width: 100%; max-height: 480px;\" src=\"62242e3cdb70a300ede078f08c96191d.iix\" /></h1>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=a4b77382db91230029c66a49489619bc"/>
+</record_update>

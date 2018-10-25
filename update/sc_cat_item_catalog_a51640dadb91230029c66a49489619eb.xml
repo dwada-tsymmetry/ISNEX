@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Mobile Device">f418e19cdb91230029c66a49489619b8</sc_cat_item>
+        <sc_catalog display_value="ISNEX Catalog">4338059cdb192300ae1b309f7c9619c6</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-23 22:07:33</sys_created_on>
+        <sys_id>a51640dadb91230029c66a49489619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ISNEX Catalog.Mobile Device</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a51640dadb91230029c66a49489619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-23 22:07:33</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
