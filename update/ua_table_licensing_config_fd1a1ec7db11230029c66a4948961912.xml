@@ -5,7 +5,7 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_usdo2_isnex_task_template</name>
+        <name>x_usdo2_isnex_request_template</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>derek.wada@tsymmetry.com</sys_created_by>
         <sys_created_on>2018-10-17 21:48:11</sys_created_on>
-        <sys_id>724b367adb15230029c66a49489619fa</sys_id>
+        <sys_id>fd1a1ec7db11230029c66a4948961912</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_usdo2_isnex_task_template</sys_name>
+        <sys_name>x_usdo2_isnex_request_template</sys_name>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
-        <sys_update_name>ua_table_licensing_config_724b367adb15230029c66a49489619fa</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_fd1a1ec7db11230029c66a4948961912</sys_update_name>
         <sys_updated_by>derek.wada@tsymmetry.com</sys_updated_by>
         <sys_updated_on>2018-10-17 21:48:11</sys_updated_on>
     </ua_table_licensing_config>
