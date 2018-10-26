@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_usdo2_isnex.ISNCatalogUtils</api_name>
+        <client_callable>true</client_callable>
+        <description>Functions for ISN catalog items.</description>
+        <name>ISNCatalogUtils</name>
+        <script><![CDATA[var ISNCatalogUtils = Class.create();
+ISNCatalogUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getReference: function() {
+		var referencedRecord = this.getParameter('sysparm_field');
+		var referenceFields = this.getParameter('sysparm_reference_fields').split(',');
+
+		var answer = {};
+		var gr = new GlideRecord('sys_user');
+		gr.addQuery('sys_id',referencedRecord);
+		gr.query();
+		if (gr.next()) {
+			for (var i=0;i<referenceFields.length;i++) {
+				var field = referenceFields[i];
+				// Reference field
+				if (typeof gr[field] === 'object' && typeof gr[field].sys_id !== 'undefined') {
+					answer[field] = gr[field].getDisplayValue();
+				}
+				// Non-reference fields
+				else if (typeof gr[field].sys_id == 'undefined' && typeof gr[field] != null && typeof gr[field] !== 'undefined') {
+					answer[field] = gr[field] + '';
+				} 
+				// Empty
+				else {
+					answer = '';
+				}
+			}
+		}
+		return JSON.stringify(answer);
+	},
+
+	type: 'ISNCatalogUtils'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-25 21:44:41</sys_created_on>
+        <sys_id>40becabadb91230029c66a49489619ca</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>ISNCatalogUtils</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>sys_script_include_40becabadb91230029c66a49489619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-25 22:55:46</sys_updated_on>
+    </sys_script_include>
+</record_update>

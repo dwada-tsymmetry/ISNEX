@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:4d18e59cdb91230029c66a4948961953</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-25 20:10:40</sys_created_on>
+        <sys_id>ce6e7d72db91230029c66a494896197a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>requestor_poc</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ce6e7d72db91230029c66a494896197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-25 21:05:37</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Requested on Behalf of Another">b2fdb176db51230029c66a4948961904</ui_policy>
+        <variable>requestor_poc</variable>
+        <variable_set display_value="ISNEX Common Variables">cdb54126db91230029c66a494896199a</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

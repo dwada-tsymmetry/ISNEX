@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Mobile Device">f418e19cdb91230029c66a49489619b8</catalog_item>
+        <catalog_variable>IO:b923bdeadbd1230029c66a4948961960</catalog_variable>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-25 23:13:34</sys_created_on>
+        <sys_id>cd28e6fadbd1230029c66a49489619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bureau_isso</sys_name>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_cd28e6fadbd1230029c66a49489619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-25 23:13:34</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Lost Stolen">4ff66abadbd1230029c66a494896199f</ui_policy>
+        <variable>bureau_isso</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

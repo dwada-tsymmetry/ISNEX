@@ -37,11 +37,11 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>telework_agreement</name>
-        <order>600</order>
+        <name>telework_valid</name>
+        <order>650</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Telework Agreement in place?</question_text>
+        <question_text>Telework Agreement valid through: </question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -59,20 +59,18 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-18 00:07:50</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>cd18e59cdb91230029c66a494896195e</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Telework Agreement in place?</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Telework Agreement valid through: </sys_name>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
         <sys_update_name>item_option_new_cd18e59cdb91230029c66a494896195e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-25 00:41:55</sys_updated_on>
+        <sys_updated_on>2018-10-25 23:03:41</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>1</type>
+        <type>9</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
