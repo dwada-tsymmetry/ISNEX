@@ -41,7 +41,7 @@
         <order>3000</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Object</question_text>
+        <question_text>Object:</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -59,17 +59,15 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-25 02:07:28</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>b5968e66db15230029c66a49489619a9</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Object</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Object:</sys_name>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
         <sys_update_name>item_option_new_b5968e66db15230029c66a49489619a9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-25 02:10:50</sys_updated_on>
+        <sys_updated_on>2018-10-25 23:09:28</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

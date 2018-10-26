@@ -10,19 +10,17 @@
         <next_question/>
         <order>100</order>
         <payload_name/>
-        <question display_value="Task" name="Task">3ff510420f22020006b09259a1050e8b</question>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-10-25 02:17:45</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>e8f8c62adb15230029c66a49489619eb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Isnex Task</sys_name>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
         <sys_update_name>sys_wizard_answer_e8f8c62adb15230029c66a49489619eb</sys_update_name>
         <sys_updated_by>system</sys_updated_by>

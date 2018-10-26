@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>true</applies_target_record>
+        <applies_to>set</applies_to>
+        <cat_item/>
+        <cat_variable>IO:182395eadb91230029c66a4948961982</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <messages/>
+        <name>Populate Customer Fields</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+	if (newValue == '') {
+		g_form.clearValue('requested_for_email');
+		g_form.clearValue('requested_for_title');
+		g_form.clearValue('requested_for_office');
+		g_form.clearValue('requested_for_supervisor');
+	} else {
+		var referenceFields = ['email','title','department','manager'];
+		var ga = new GlideAjax('ISNCatalogUtils');
+		ga.addParam('sysparm_name','getReference');
+		ga.addParam('sysparm_field',newValue);
+		ga.addParam('sysparm_reference_fields',referenceFields);
+		ga.getXML(callback);
+	}
+}
+
+function callback(response) {
+	var answer = response.responseXML.documentElement.getAttribute("answer");
+	if (answer) {
+		var gr = JSON.parse(answer);
+		g_form.setValue('requested_for_email',gr.email);
+		g_form.setValue('requested_for_title',gr.title);
+		g_form.setValue('requested_for_office',gr.department);
+		g_form.setValue('requested_for_supervisor',gr.manager);
+	}
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-25 21:18:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>454c867adb91230029c66a49489619f2</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Populate Customer Fields</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
+        <sys_update_name>catalog_script_client_454c867adb91230029c66a49489619f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-25 22:56:30</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <variable_set display_value="ISNEX Common Variables">cdb54126db91230029c66a494896199a</variable_set>
+        <view/>
+    </catalog_script_client>
+</record_update>

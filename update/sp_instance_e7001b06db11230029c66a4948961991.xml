@@ -16,13 +16,11 @@
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-23 18:11:30</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>e7001b06db11230029c66a4948961991</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>How can we Help?</sys_name>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
         <sys_update_name>sp_instance_e7001b06db11230029c66a4948961991</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
@@ -31,4 +29,5 @@
         <url/>
         <widget_parameters/>
     </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e7001b06db11230029c66a4948961991"/>
 </record_update>
