@@ -3,7 +3,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="RSA Token">c426a15cdb91230029c66a4948961968</cat_item>
+        <cat_item/>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -37,16 +37,16 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>contractor</name>
-        <order>700</order>
+        <name>requested_for_phone</name>
+        <order>250</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Are you a Contractor? </question_text>
+        <question_text>Customer Phone Number</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table>x_usdo2_isnex_request</record_producer_table>
+        <record_producer_table/>
         <reference>sys_user</reference>
         <reference_qual/>
         <reference_qual_condition/>
@@ -57,25 +57,25 @@
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-18 00:02:45</sys_created_on>
-        <sys_id>eee6e15cdb91230029c66a49489619ec</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Are you a Contractor? </sys_name>
+        <sys_created_by>derek.wada.dev63596</sys_created_by>
+        <sys_created_on>2018-10-29 20:34:21</sys_created_on>
+        <sys_id>e64a2688db61230029c66a49489619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Phone Number</sys_name>
         <sys_package display_value="ISNEX" source="x_usdo2_isnex">0718411cdb192300ae1b309f7c961925</sys_package>
         <sys_policy/>
         <sys_scope display_value="ISNEX">0718411cdb192300ae1b309f7c961925</sys_scope>
-        <sys_update_name>item_option_new_eee6e15cdb91230029c66a49489619ec</sys_update_name>
+        <sys_update_name>item_option_new_e64a2688db61230029c66a49489619ef</sys_update_name>
         <sys_updated_by>derek.wada.dev63596</sys_updated_by>
-        <sys_updated_on>2018-10-28 00:35:02</sys_updated_on>
+        <sys_updated_on>2018-10-29 20:34:21</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>1</type>
+        <type>6</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set/>
+        <variable_set display_value="ISNEX Common Variables">cdb54126db91230029c66a494896199a</variable_set>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
@@ -84,22 +84,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=eee6e15cdb91230029c66a49489619ec"/>
-    <fx_price action="delete_multiple" query="id=eee6e15cdb91230029c66a49489619ec"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=e64a2688db61230029c66a49489619ef"/>
+    <fx_price action="delete_multiple" query="id=e64a2688db61230029c66a49489619ef"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>eee6e15cdb91230029c66a49489619ec</id>
+        <id>e64a2688db61230029c66a49489619ef</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-18 00:02:45</sys_created_on>
-        <sys_id>aae6e15cdb91230029c66a49489619ee</sys_id>
+        <sys_created_by>derek.wada.dev63596</sys_created_by>
+        <sys_created_on>2018-10-29 20:34:21</sys_created_on>
+        <sys_id>ae4a2688db61230029c66a49489619f2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-18 00:02:45</sys_updated_on>
+        <sys_updated_by>derek.wada.dev63596</sys_updated_by>
+        <sys_updated_on>2018-10-29 20:34:21</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -107,16 +107,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>eee6e15cdb91230029c66a49489619ec</id>
+        <id>e64a2688db61230029c66a49489619ef</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-18 00:02:45</sys_created_on>
-        <sys_id>62e6e15cdb91230029c66a49489619ee</sys_id>
+        <sys_created_by>derek.wada.dev63596</sys_created_by>
+        <sys_created_on>2018-10-29 20:34:21</sys_created_on>
+        <sys_id>2a4a2688db61230029c66a49489619f1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-18 00:02:45</sys_updated_on>
+        <sys_updated_by>derek.wada.dev63596</sys_updated_by>
+        <sys_updated_on>2018-10-29 20:34:21</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
